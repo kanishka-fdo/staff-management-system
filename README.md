@@ -9,6 +9,7 @@ A web-based Staff Management System built using **Spring Boot** to manage employ
 - Database integration
 
 ## Tech Stack
+
 - Java
 - Spring Boot
 - Spring MVC
